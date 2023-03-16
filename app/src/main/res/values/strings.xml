@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Odering service</string>
+    <string name="question1">What meat would you like in your burger?</string>
+    <string name="beef">Beef</string>
+    <string name="chicken">Chicken</string>
+    <string name="impossible_meat">Impossible Meat</string>
+    <string name="cheese">Cheese</string>
+    <string name="onions">Onions</string>
+    <string name="salad">Salad</string>
+    <string name="question2">What other items would you like?</string>
+    <string name="order_details">Items ordered in the burger:</string>
+    <string name="submit">Submit</string>
+</resources>
